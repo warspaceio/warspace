@@ -8,7 +8,7 @@ description: >-
 
 A different type of tools is used for each type of buildings:
 
-Mining tools - Increases the mining cycle for a gold mine. Explosion tools - Increases the mining cycle for stone quarry. Lumberjack tools - Increases the mining cycle of a lumberjack. Cooking tools - Increases the mining cycle for a farm.
+Mining tools - Increases the mining cycle for a gold mine. Explosion tools - Increases the mining cycle for stone quarry. Lumberjack tools - Increases the mining cycle of a lumber mill. Cooking tools - Increases the mining cycle for a farm.
 
 ![Mining tools](.gitbook/assets/03\_1.webp) ![Explosion tools](.gitbook/assets/01\_1.webp) ![Lumberjack tools](.gitbook/assets/04\_1.webp) ![Cooking tools](.gitbook/assets/02\_1.webp)
 

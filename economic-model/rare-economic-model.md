@@ -1,11 +1,11 @@
 ---
-cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
+cover: ../.gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# Rare economic model
+# 🔵 Rare economic model
 
-![](.gitbook/assets/gold\_mine\_rare.png)
+![](../.gitbook/assets/gold\_mine\_rare.png)
 
 🏆 Income/cost calculation table for a **Gold mine:**
 

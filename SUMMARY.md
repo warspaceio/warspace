@@ -9,9 +9,12 @@
 * [Smart blending](smart-blending.md)
 * [Types of rarity](types-of-rarity.md)
 * [Tokenized economy](tokenized-economy.md)
-* [Common economic model](common-economic-model.md)
-* [Rare economic model](rare-economic-model.md)
-* [Epic economic model](epic-economic-model.md)
+
+## Economic model
+
+* [⚪ Common economic model](economic-model/common-economic-model.md)
+* [🔵 Rare economic model](economic-model/rare-economic-model.md)
+* [🟣 Epic economic model](economic-model/epic-economic-model.md)
 
 ## AMA-SESSIONS
 
