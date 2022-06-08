@@ -1,20 +1,20 @@
 # Table of contents
 
-* [WarSpace](README.md)
-* [GamePlay](gameplay.md)
-* [Exclusive NFT](exclusive-nft.md)
-* [Tools](tools.md)
-* [Battle NFTs](battle-nfts.md)
-* [Multi-level systems](multi-level-systems.md)
-* [Smart blending](smart-blending.md)
-* [Types of rarity](types-of-rarity.md)
-* [Tokenized economy](tokenized-economy.md)
+* [1⃣ WarSpace](README.md)
+* [2⃣ GamePlay](gameplay.md)
+* [3⃣ Exclusive NFT](exclusive-nft.md)
+* [4⃣ Tools](tools.md)
+* [5⃣ Battle NFTs](battle-nfts.md)
+* [6⃣ Multi-level systems](multi-level-systems.md)
+* [7⃣ Smart blending](smart-blending.md)
+* [8⃣ Types of rarity](types-of-rarity.md)
+* [9⃣ Tokenized economy](tokenized-economy.md)
 
 ## Economic model
 
-* [⚪ Common economic model](economic-model/common-economic-model.md)
-* [🔵 Rare economic model](economic-model/rare-economic-model.md)
-* [🟣 Epic economic model](economic-model/epic-economic-model.md)
+* [⚪ Common economic model](common-economic-model.md)
+* [🔵 Rare economic model](rare-economic-model.md)
+* [🟣 Epic economic model](epic-economic-model.md)
 
 ## AMA-SESSIONS
 

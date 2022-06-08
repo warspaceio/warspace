@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/sample_Banner_1500x500_15dpi_02.png
+cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
@@ -7,7 +7,7 @@ coverY: 0
 
 Players will have the opportunity to act strategically in the game, choosing how to develop their lands and what resources to produce first, with an emphasis on improving certain buildings.
 
-![](../.gitbook/assets/gold\_mine\_com.png)
+![](.gitbook/assets/gold\_mine\_com.png)
 
 Table for calculating the cost of tier 1 construction crafting:
 
