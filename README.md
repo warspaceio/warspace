@@ -1,5 +1,5 @@
 ---
-description: The official WarSpace technical document, latest update - January 2022.
+description: The official WarSpace technical document.
 cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
