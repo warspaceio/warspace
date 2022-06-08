@@ -4,7 +4,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 4⃣ Multi-level systems
+# Multi-level systems
 
 Players will be able to enhance their buildings through the smart blending system.\
 The illustration below shows images of WarSpace digital items (NFT \*) that will be used for resource extraction.

@@ -4,7 +4,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 1⃣ WarSpace
+# WarSpace
 
 Introduction: \
 \

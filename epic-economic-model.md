@@ -3,7 +3,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 🔟 Epic economic model
+# Epic economic model
 
 ![](.gitbook/assets/gold\_mine\_epic.png)
 

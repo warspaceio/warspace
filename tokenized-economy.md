@@ -4,7 +4,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 7⃣ Tokenized economy
+# Tokenized economy
 
 FOOD is needed so that your workers can mine resources. Each building consumes a fixed amount of FOOD. Farm produces FOOD.
 

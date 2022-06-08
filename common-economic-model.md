@@ -3,7 +3,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 8⃣ Common economic model
+# Common economic model
 
 Players will have the opportunity to act strategically in the game, choosing how to develop their lands and what resources to produce first, with an emphasis on improving certain buildings.
 

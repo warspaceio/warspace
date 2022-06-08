@@ -3,7 +3,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 6⃣ Types of rarity
+# Types of rarity
 
 There are three different levels of digital item rarity (NFT \*) in WarSpace. These are: Common, Rare, and Epic.
 

@@ -3,7 +3,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 9⃣ Rare economic model
+# Rare economic model
 
 ![](.gitbook/assets/gold\_mine\_rare.png)
 

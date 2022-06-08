@@ -6,9 +6,9 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 2⃣ GamePlay
+# GamePlay
 
-The game is set in a lost world filled with rich resources that players have to mine. There are 4 different types of resourses in game: STONE, WOOD, GOLD and FOOD. Each of them can be exchanged for other one.
+The game is set in a lost world filled with rich resources that players have to mine. There are 4 different types of resourses in game: STONE, WOOD, GOLD and FOOD. Each of them can be exchanged for other one.&#x20;
 
 ![](<.gitbook/assets/go  to atomic.png>)
 

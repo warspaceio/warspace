@@ -4,7 +4,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 5⃣ Smart blending
+# Smart blending
 
 Blending NFT will be available to players:
 

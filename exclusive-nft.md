@@ -4,7 +4,7 @@ cover: .gitbook/assets/sample_Banner_1500x500_15dpi_02.png
 coverY: 0
 ---
 
-# 3⃣ Exclusive NFT
+# Exclusive NFT
 
 You will need at least one NFT to play! You can buy any of the NFTs available on the market or get them from the packs. As you can see from the illustrations, there are four types to choose from: Gold Mine, Stone Quarry, Lumber Mill and Food Farm.
 
