@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1⃣ WarSpace](README.md)
+* [1⃣ Warspace](README.md)
 * [2⃣ GamePlay](gameplay.md)
 * [3⃣ Exclusive NFT](exclusive-nft.md)
 * [4⃣ Tools](tools.md)
@@ -15,6 +15,11 @@
 * [⚪ Common economic model](common-economic-model.md)
 * [🔵 Rare economic model](rare-economic-model.md)
 * [🟣 Epic economic model](epic-economic-model.md)
+
+## ARENA
+
+* [ℹ Warspace Arena](arena/warspace-arena.md)
+* [⚔ Bosses](arena/bosses.md)
 
 ## AMA-SESSIONS
 
